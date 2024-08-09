@@ -1,4 +1,7 @@
-![Matrix Glitch Cat](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif)
+<p align="right">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="150" height="150" alt="Matrix Glitch Cat">
+</p>
+
 
 
 
