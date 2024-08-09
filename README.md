@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="400" height="400" alt="Matrix Glitch Cat">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="350" height="350" alt="Matrix Glitch Cat">
 </p>
 
 
