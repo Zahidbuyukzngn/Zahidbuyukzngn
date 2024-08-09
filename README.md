@@ -8,6 +8,6 @@
     </div>
   </div>
   <div>
-    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="350" height="350" alt="Matrix Glitch Cat">
+    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="150" height="150" alt="Matrix Glitch Cat">
   </div>
 </div>
