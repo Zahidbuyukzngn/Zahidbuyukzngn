@@ -7,7 +7,7 @@
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
     </div>
   </div>
-  <div>
-    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="150" height="150" alt="Matrix Glitch Cat">
+  <div style="margin-left: auto;">
+    <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized.gif" width="200" height="200" alt="Matrix Glitch Cat">
   </div>
 </div>
