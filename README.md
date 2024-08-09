@@ -1,5 +1,5 @@
 
-<img align="right" src="    https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv        " width="280" height="230"  />
+<img align="right" src="https://giphy.com/embed/nFLW7PNGgN3lI68rdv" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PembeThePinkCat-cute-pembe-the-pink-cat-nFLW7PNGgN3lI68rdv" width="280" height="230"  />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+developer+of+the+future)](https://git.io/typing-svg)
