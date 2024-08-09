@@ -1,4 +1,4 @@
-<img align="right" src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="280" height="230"  />
+<img align="right" src="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm" width="280" height="230"  />
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+developer+of+the+future)](https://git.io/typing-svg)
