@@ -4,7 +4,7 @@
 
 <div style="position: relative;">
   <div>
-    <div style="display: flex; margin-top: 20px;">
+    <div style="display: flex; margin-top: 10px;">
       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
